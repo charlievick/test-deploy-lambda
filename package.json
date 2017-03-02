@@ -1,0 +1,22 @@
+{
+  "name": "test_lambda_deploy",
+  "description": "testing deploy of lambda in semaphore",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.22.0",
+    "gulp": "^3.9.1",
+    "del": "^2.2.0",
+    "fs": "0.0.2",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-repl": "^1.1.1",
+    "gulp-zip": "^3.2.0",
+    "jasmine": "^2.4.1",
+    "jshint": "^2.9.1",
+    "path": "^0.12.7",
+    "run-sequence": "^1.1.5",
+    "yargs": "^4.1.0"
+  },
+  "devDependencies": {}
+}
